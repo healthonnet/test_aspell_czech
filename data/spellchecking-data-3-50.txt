@@ -1,0 +1,759 @@
+1	Noví držitelé certifikátu	Noví držiteelé certifikátu
+1	Interní gastroenterologická klinika	Intrní gastroenterologická klinika
+3	CT vyšetření mozku	CT yvšetřenímozky
+2	Evropské respirační společnosti	Evrospké respiračnní společnosti
+0	adjuvantní hormonální léčby	adjuvantní hormonální léčby
+3	pravé srdeční komory	pavé srdenčí komočy
+2	písemného souhlasu vlastníka	písemného souhlasuvoastníka
+2	poskytující analýzu genu	poskytující analýzua geneu
+2	výskyt infarktů myokardu	vyskyt infarkt myokardu
+1	vedlejší nežádoucí účinky	vedleuší nežádoucí účinky
+0	celoživotního vzdělávání lékařů	celoživotního vzdělávání lékařů
+2	Randomizovaná kontrolovaná studie	Randomizovaná kontrolvoaná tsudie
+0	zdravotnické záchranné službě	zdravotnické záchranné službě
+1	katedry ortopedie ILF	katedry ortopdeie ILF
+0	Stomatologická klinika LF	Stomatologická klinika LF
+2	medicíny AV ČR	medicny A ČR
+1	antropologický výzkum dětí	antopologický výzkum dětí
+2	chronická žilní insuficience	chrnická žilmí insuficience
+2	Léčba diabetes mellitus	Léčbz diabetesmellitus
+2	konstitučních kostních chorob	konstitučních kostníchchorobr
+2	Zrušení povolení výroby	Zrušenípovolen výroby
+1	poskytnuté zdravotní péče	poskytnuté zdravotní péře
+3	vitaminy skupiny B	vitaminny skupinyB
+2	Popis poranění typu	Pipis poraněín typu
+4	ředitelství HZS ČR	ředitelsttvíHS Č
+2	zdravotní stav hostitele	zdravotní sav hosttiele
+1	interní klinice VFN	interní klincie VFN
+1	hluboká mozková stimulace	hluboká mozková stimulcae
+0	chronický únavový syndrom	chronický únavový syndrom
+0	průměrná doba přežití	průměrná doba přežití
+2	tenzní bolesti hlavy	tenzníe bolesi hlavy
+3	mírná kognitivní porucha	mirna kognitivnoi porucrha
+2	paroxysmální fibrilace síní	paroxysmální fibrilaice sní
+3	vzestupné stimulace síní	vzestupné sitmulacesíín
+1	lékařská společnost J	lékařská společnost 
+1	domácí parenterální výživy	domaci parenteralni vyzivy
+1	hluboký žilní systém	hluboký žolní systém
+1	funkční střevní poruchy	funkční střevní péruchy
+1	Pediatrická klinika UK	Pediatrická llinika UK
+1	zdravotní pojišťovně ČR	zdravotní pojišťovně ČRČ
+3	sedavý způsob života	sedavy zpusopb zavota
+1	Mezinárodní klasifikaci nemocí	Mezinárodní klasifokaci nemocí
+0	embryonální kmenové buňky	embryonální kmenové buňky
+1	onemocnění skeletu ČLS	onemocnění skeletu ČSL
+1	bariérové funkce kůže	nariérové funkce kůže
+4	referenčním členským státem	referencnrim clenskysm staetm
+0	Glaxo Smith Kline	Glaxo Smith Kline
+1	krevní transfuze Praha	krevní trnsfuze Praha
+4	centrálního krevního tlaku	ecntrálního krevhíhotlaktu
+1	preventivní kardiologie IKEM	preventivni kardiologie IKEM
+2	nízkým obsahem tuků	nízkým obsaohem táků
+3	horní hranice normy	horni hranuce nirmy
+2	primární prevence ICHS	primární prevenceCHS
+0	průměrný věk žen	průměrný věk žen
+2	centrálního žilního katétru	centrílního žinlního katétru
+1	AKUTNÍCH KORONÁRNÍCH SYNDROMŮ	AKUTNICH KORONARNICH SYNDROMU
+3	Nejčastější nežádoucí účinky	Nejcsatejsi nezadouci ucinnky
+1	centrálního úložiště dat	centrálního úložišě dat
+2	vyšším rizikem úmrtí	vyšeím rizikem úmrít
+2	únikové cesty typu	únikovéé csty typu
+3	aktuální zdravotní stav	aktuální zdravoníszav
+1	bipolární afektivní porucha	bipolární afektiví porucha
+3	chronickou ischemickou chorobou	chronckou ischemickoý chorovou
+0	prostatický specifický antigen	prostatický specifický antigen
+0	České gastroenterologické společnosti	České gastroenterologické společnosti
+0	České alzheimerovské společnosti	České alzheimerovské společnosti
+3	specifického léčivého programu	specifickéhho léčivéhoprogram
+2	Herpes simplex virus	Herpesr simplex virus
+3	zvláštním právním předpisem	zvláštnním právníím předpiesm
+2	onemocněním ledvin stadia	onemocněním ldedvin statdia
+1	Národní program shody	Národní prgoram shody
+3	gastrointestinálních nežádoucích účinků	gastrointestinánlích nežádoucíc účánků
+2	delší poločas účinku	delší poočas účinou
+0	Zdravotnické elektrické přístroje	Zdravotnické elektrické přístroje
+2	hlubokou žilní trombózu	hlubokouu žilní tro,bózu
+1	Mezinárodní klasifikace bolestí	Mezinárodni klasifikace bolestí
+1	délkou trvání diabetu	délkou trvní diabetu
+1	Účinná prevence kouření	Účinná preveence kouření
+1	nemalobuněčný karcinom plic	nemalobnuěčný karcinom plic
+3	virové hepatitidy B	vitove hepatitidy BB
+3	prospektivní randomizované studie	prospektivni rando,izovane studid
+2	regionálních lymfatických uzlinách	regiínálních lymfatických uzlnách
+2	genetiky člověka PřF	enetiky člověka PřFř
+2	plný invalidní důchod	plnyinvalidni duchod
+1	zánětlivá střevní onemocnění	zánětlivá střevní onmeocnění
+1	akutní lymfoblastické leukémie	akutní lymfoblastiké leukémie
+0	duální antiagregační léčby	duální antiagregační léčby
+1	Ortopedické oddělení Nemocnice	Ortopedické odděelní Nemocnice
+2	GŘ HZS ČR	GŘ HHS ČČ
+2	vysokým rizikem recidivy	vyslkým rizikem rrcidivy
+2	chronickou hepatitidou C	chroncickou hetpatitidou C
+3	nutná úprava dávkování	nutmá úprva ádvkování
+1	reaktivních forem kyslíku	raktivních forem kyslíku
+1	účinek inhibitorů ACE	účinsk inhibitorů ACE
+1	sexuální funkce pohledem	sexuální funnkce pohledem
+2	Státní zdravotnické nakladatelství	Sttni zdravotnicke nakladatelstvi
+0	hladké svaloviny cév	hladké svaloviny cév
+2	schůze výboru ČKS	scůhze výbour ČKS
+1	Všeobecné zdravotní pojišťovně	Všeobecné zdarvotní pojišťovně
+0	perorální nutriční doplňky	perorální nutriční doplňky
+1	velkých randomizovaných studií	velkých randomizovanýh studií
+1	českých odborných společností	česk8ch odborných společností
+1	záchranného sboru ČR	záchranného sborbu ČR
+2	Fakultní Thomayerově nemocnici	Famultní Thomayerově ne,ocnici
+3	České asociace sester	Cekse aosciace sester
+1	průměrnou dobou sledování	průměrnou doou sledování
+4	tranzitorní ischemické ataky	tranziotrní ishcemickéaaky
+1	zlepšení tolerance zátěže	zlepšení tolrance zátěže
+3	traumatických změn skeletu	traumatickych zzmen skrletu
+2	veřejných vysokých škol	veřekných vysoých škol
+1	Evropským sociálním fondem	Evropským sociálním fondsm
+3	ultrazvukové vyšetření břicha	ultrazvkove vysetreni brhicha
+2	prospektivních randomizovaných studií	prospektivnich ranodmizovanych studii
+0	možných nežádoucích účincích	možných nežádoucích účincích
+1	katetrizační ablace FS	katetrizačí ablace FS
+2	chirurgické léčby obezity	chirurgivke lecby obezity
+1	pravé věnčité tepny	pravé věnčité tepy
+1	hepatitidy typu C	hepatitidy tpu C
+2	nasycené mastné kyseliny	nasycené masnté kyseliby
+1	celá řada studií	celá řsda studií
+3	porušenou glukózovou tolerancí	porušeneou glukózoovou tolreancí
+2	zvýšeným rizikem zlomenin	zvysneym rizikem zlomenin
+2	správné laboratorní praxe	spfávné laboratornípraxe
+2	dostatečný přívod tekutin	dostatečný přvod teuktin
+0	pravé srdeční komoře	pravé srdeční komoře
+4	středního zdravotnického personálu	srredniho zdnravotnickeho personalh
+0	Lékové interakce kouření	Lékové interakce kouření
+2	fakulta Univerzity Komenského	fakultaUnierzity Komenského
+3	vojenské nemocnice Praha	vojensk nemocnice Prha
+1	Epidemiologie užívání tabáku	Epidemiologie uížvání tabáku
+1	Nejčastějšími nežádoucími účinky	Nejčastějšími nežádoucími účyinky
+2	nemocných s AKI	nemocnych s AI
+2	Pagetovy kostní choroby	Pagetovy mostní chboroby
+1	Technická univerzita Ostrava	Technická univerzitw Ostrava
+1	perkutánní koronární intervencí	pšrkutánní koronární intervencí
+1	léčbu bolesti ČLS	léčbu boelesti ČLS
+2	významné rizikové faktory	významné rivzikové fatkory
+1	Obstrukční spánková apnoe	Obstrukční spáknová apnoe
+2	střední arteriální tlak	střední arteriálín talk
+1	lepší léčebné výsledky	lepší léčbné výsledky
+2	nemocnice Tomáše Bati	nemocnicoe Tomáš Bati
+0	akutního děložního krvácení	akutního děložního krvácení
+0	Každý doškolovací kurz	Každý doškolovací kurz
+1	Psychiatrické společnosti ČLS	Pszchiatrické společnosti ČLS
+2	peptické vředové choroby	peptick vředové choroyb
+2	tkáně ČLS JEP	tkáně LS IEP
+0	pluripotentní kmenové buňky	pluripotentní kmenové buňky
+4	Umělá plicní ventilace	Umelaplnicni ventilacei
+2	OH vitamínu D	OH vitamíniu F
+2	účelem evidence předplatitelů	účelm evidence předplatidtelů
+2	zlepšením kvality života	zlepsenim kvaliry zivota
+1	ideální tělesné hmotnosti	idelní tělesné hmotnosti
+1	každého jednotlivého pacienta	každého jednotlivého pacientta
+0	stejnou léčivou látku	stejnou léčivou látku
+2	metastatickým kolorektálním karcinomem	metastatickym kplorektalnim karcinomem
+1	primární výsledný ukazatel	primární výsledný ukaztael
+1	West Nile virus	West Nille virus
+1	subklinického orgánového poškození	subklinického orgánovéoh poškození
+1	rychlejší nástup účinku	rychlešjí nástup účinku
+2	the heme iron	the beme iroj
+2	slizniční imunitní systém	slizničníimunitní systm
+1	periferní cévní rezistence	periferní cévní rezisence
+1	Datum revize textu	Daum revize textu
+1	pravé horní končetiny	pravé hroní končetiny
+3	kontrolní skupinou pacientů	konyrolnískupionu pacientů
+2	Univerzita Tomáše Bati	Univerzita TomášeBtai
+3	příslušné zdravotní pojišťovny	přís;ušné zrdavotní pojišťovjy
+2	doba platnosti rozhodnutí	doga platnosti rozhodnuti
+1	provedených klinických studií	provedených klinických studiíi
+1	Klasifikace případů stahování	Klasifikacs případů stahování
+1	nežádoucí účinky léčiv	nežádoucí účinyk léčiv
+0	sekundární prevenci ICHS	sekundární prevenci ICHS
+3	Satelitní sympozium společnosti	Saelitní sympoziumpolečnosti
+0	KOMPLEXNÍ ONKOLOGICKÉ PÉČE	KOMPLEXNÍ ONKOLOGICKÉ PÉČE
+2	sérovou koncentrací kreatininu	sérovou koncentrcaí reatininu
+2	Technické univerzity Ostrava	Technické univerztiy OstOrava
+2	deficit proteinu C	defiicit porteinu C
+4	AKUTNÍHO INFARKTU MYOKARDU	AKUTONÍHO IFNARKTUMYOKARUD
+2	onkologická společnost ČLS	onkologifká společonst ČLS
+1	viru chřipky typu	virý chřipky typu
+1	redakční úpravu textů	redakčíní úpravu textů
+2	dětská mozková obrna	dětská movzková obrnoa
+3	členské státy EU	clensme staty UE
+3	polymorfní komorové tachykardie	polymírfní okmorové tachykardoe
+3	farmaceutickou část dokumentace	farmaceutcikou čáxt dokumenatce
+3	Fisherův exaktní test	FiFsherův exkatní teset
+3	Ortopedická klinika LF	Ortopdeicka klimika LF
+1	Obecné požadavky SÚKL	Obcné požadavky SÚKL
+1	pacienta s diabetes	pacienta s diabetes
+2	vnitřní kontroly kvality	vnifřní kontríly kvality
+1	virem herpes simplex	virme herpes simplex
+0	Tenzní bolest hlavy	Tenzní bolest hlavy
+0	IU vitaminu D	IU vitaminu D
+2	zlepšení prognózy nemocných	zlnepšení prognózy nemoncých
+2	izolované systolické hypertenze	izoloavné systolickéhypertenze
+2	renální tubulární acidóza	renální tubuární aciódza
+2	společné suplementum časopisů	společčné suplementum časpoisů
+3	chybnému způsobu léčby	cybnému způsou léčbz
+3	zdravotního stavu obyvatelstva	zdravotníhostaavu obyvateltsva
+2	Hyperaktivní močový měchýř	HyperaktiHvní močový měcýhř
+2	celkového kardiovaskulárního rizika	celkového kardiovaskurlárního rziika
+1	maximální plazmatické koncentrace	maximální plazmatické koncentrae
+1	saturace hemoglobinu kyslíkem	saturace heomglobinu kyslíkem
+3	Centrální nervový systém	Centrálnínerovvý ystém
+2	Průměrná délka sledování	Průměrná dlka slesdování
+1	hlubokém žilním systému	hlubokém žilnm systému
+1	onemocnění ledvin stadia	onemocnění ldevin stadia
+0	uznávání částí studia	uznávání částí studia
+2	náměstek ministryně zdravotnictví	nám3stek ministěryně zdravotnictví
+1	Světového dne ledvin	Sětového dne ledvin
+1	všeobecných praktických lékařů	všeobecných prakických lékařů
+0	pozitivní rodinné anamnézy	pozitivní rodinné anamnézy
+4	vzniku fibrilace síní	vziniku fibrilaec sii
+3	digitální subtrakční angiografie	digitálnií sutbrakční angiorafie
+1	předepsaný léčivý přípravek	předepsaný léčivýpřípravek
+2	deficitu vitamínu D	deficituvitanínu D
+1	jiné zjevné patologie	ijné zjevné patologie
+2	Průměrný věk nemocných	Průýměrný věk nemocýnch
+2	příznivý bezpečnostní profil	přínivý bezpečnostní porfil
+3	sekundárních pohlavních znaků	seknudarnich pohliavnich znaku
+2	onkologický ústav Brno	onkologixký ústav Brnoo
+3	Benigní hyperplazie prostaty	Benigni hyperrplazie proostaty
+0	celé České republice	celé České republice
+1	stejnou účinnou látkou	stejnuo účinnou látkou
+1	středního arteriálního tlaku	středního arteriálního tlauk
+1	malobuněčného karcinomu plic	malobuněčného karciinomu plic
+1	levé horní končetiny	evé horní končetiny
+1	rutinní klinické praxe	rtuinní klinické praxe
+2	relativní směrodatná odchylka	relativni serodatna odchylka
+1	spádových lymfatických uzlin	spádových lymfatických zlin
+1	různých úhlů pohledu	různých úhl pohledu
+2	Konvenční léčba fibrilace	Konvenčníléčba fjbrilace
+0	esenciálních mastných kyselin	esenciálních mastných kyselin
+0	trvalého smluvního vztahu	trvalého smluvního vztahu
+1	Všeobecné fakultní nemocnici	Všeobecné fakultní nmeocnici
+1	Vojenská nemocnice Olomouc	Vojenská nemocnice Olomuc
+1	hluboké mozkové stimulace	hlubké mozkové stimulace
+2	krystalů natrium urátu	krystalů ntrium urázu
+2	těžkých forem akné	těžkých foremakén
+3	dutého systému ledviny	duhtého sytému ledvniy
+2	Karcinom kůry nadledvin	Krcinom kůyr nadledvin
+3	průměrný věk pacientů	průměrnývěi pacipentů
+1	oblasti krčku femuru	oblasi krčku femuru
+2	J Cell Biochem	U CellBiochem
+2	celkovou dobu přežití	ceklkovou dobu pře5ití
+2	měkkých tkání krku	měkkkých tkáí krku
+1	Primárním sledovaným ukazatelem	Priámrním sledovaným ukazatelem
+2	včasné stanovení diagnózy	včasné stanoven idagnózy
+1	volné mastné kyseliny	volné mastné kyselieny
+1	periferní nervový systém	perifeerní nervový systém
+1	podpory grantu MŠMT	podpory garntu MŠMT
+1	nutná redukce dávky	nutná redukce dváky
+1	invazivních mykotických infekcí	invazivních myokotických infekcí
+1	léčby diabetes mellitus	léčhy diabetes mellitus
+1	České angiologické společnosti	České angiologické společnostá
+1	Subjektivní vnímání změny	Subjektivní vnímání změn
+1	OH vitaminu D	LH vitaminu D
+2	Hotelu Gustav Mahler	Houtelu Gustav Mah;er
+0	ovlivnitelných rizikových faktorů	ovlivnitelných rizikových faktorů
+2	Chronické pánevní bolesti	Chroncké pánevní bolsti
+1	oční klinika LF	ční klinika LF
+3	streptokoky skupiny B	streptokoky skupimy BB
+1	Masaryk University Hospital	Masaryk University Hostpital
+1	kontrolovaných klinických studiích	kontrolovaýnch klinických studiích
+2	systémová onemocnění pojiva	syetémová onemocnění pojia
+2	evidence EAN kódů	evidehce EAN kodu
+2	distálního konce dříku	distálního koncrdříku
+1	zpětné vychytávání serotoninu	zp3tné vychytávání serotoninu
+0	Národní referenční laboratoře	Národní referenční laboratoře
+3	sympatický nervový systém	sympatický nervvýsystmé
+1	serum albumin as	serum albumin ass
+1	regionální lymfatické uzliny	regionální lymfaticcké uzliny
+1	správnou výrobní praxi	správnu výrobní praxi
+2	klinika VFN Praha	kilnika VNF Praha
+0	doporučená denní dávka	doporučená denní dávka
+2	rezistentní Staphylococcus aureus	rszistentní Staphylococchs aureus
+2	neregistrovaného léčivého přípravku	neregistrovaneho lciveho pripravku
+3	Urologická klinika VFN	Uroolgická klianika VFNN
+1	grantu GA ČR	granntu GA ČR
+0	Jarní interaktivní konferenci	Jarní interaktivní konferenci
+0	HORMONÁLNÍ LÉČBA NÁDORŮ	HORMONÁLNÍ LÉČBA NÁDORŮ
+1	terapii diabetes mellitus	terapii diabetes melliuts
+1	významnou aortální stenózou	významnou arotální stenózou
+3	náhradu funkce ledvin	náyradu funkc ldevin
+2	chronické žilní nedostatečnosti	chronicke zinli nedostatecnosti
+2	dětských infekčních nemocí	dětskcých infekčnch nemocí
+2	zkrácený zubní oblouk	zkraceny zubni blouk
+3	vysokým rizikem rozvoje	vysokym riziksm rogvoje
+2	normální renální funkcí	normáolní rneální funkcí
+2	mladších věkových kategorií	mlašdích věkových ktategorií
+0	jiným státem EU	jiným státem EU
+0	Ministerstvem zdravotnictví ČR	Ministerstvem zdravotnictví ČR
+0	humánní monoklonální protilátka	humánní monoklonální protilátka
+0	cílenou biologickou léčbu	cílenou biologickou léčbu
+1	dolní krční páteře	dolní kčční páteře
+3	zvýšené kardiovaskulární riziko	zvýšneé kardiovasklární rigiko
+1	transplantační chirurgie IKEM	transplantční chirurgie IKEM
+1	snížení průtoku krve	snížení průtokru krve
+1	jiným členským státem	jiným členskm státem
+2	doporučené denní dávky	doporučené dnenídávky
+2	chronickém selhání ledvin	cjronickém selhnání ledvin
+2	plicní arteriální hypertenzi	plilcni arterialni hypertenzi
+1	faktor kappa B	faktkor kappa B
+0	Postup povolování výroby	Postup povolování výroby
+0	systémové zánětlivé odpovědi	systémové zánětlivé odpovědi
+0	nestátního zdravotnického zařízení	nestátního zdravotnického zařízení
+3	smyslu snížení rizika	msyslu snieni rizika
+2	chirurgické léčbě nádorů	chirjrgické lčébě nádorů
+2	dolní hranici normy	dolni hranici normz
+2	každé nosní dírky	kažcé nosín dírky
+2	onkologický register SR	onkologiciký rgeister SR
+3	externí kontroly kvality	externi kotnroly kvapity
+3	zvýšeným kardiovaskulárním rizikem	zvysenym kadriovaskularnim rozikem
+1	pokročilým srdečním selháním	pokrčilým srdečním selháním
+1	lékařská fakulta UK	lékařská fakula UK
+3	deficit vitamínu D	defiictvitamínu 
+1	nízkou koncentrací HDL	nízkou koncentrací HLD
+2	hlubokou žilní trombózou	hlubíkou žillní trombózou
+2	Doporučené doby použitelnosti	Doporučené dobby použitelosti
+1	dostatečný příjem vápníku	dostatečný příjem vápníká
+3	Sekundární bolesti hlavy	Sekundárí bolestihllavy
+1	časté nežádoucí účinky	časté nežádoucí účin,y
+3	estrogen plus progestin	estrogenpluss progestpin
+3	zadního segmentu pánve	zzadního sgmentu pánvee
+0	zdravotní pojišťovny ČR	zdravotní pojišťovny ČR
+1	hodnocení stavu výživy	hodnoceni stavu vyzivy
+3	vysokým KV rizikem	vysékým VK rizimem
+1	Akutní plicní embolie	Akjtní plicní embolie
+3	vaginální estrogenní terapie	vnaginálníesžrogenní terapie
+1	nemocných s diabetes	nemocných s diabetess
+1	biochemie ČLS JEP	biochemie ČLS EJP
+5	správné lékárenské praxi	spranve lekarrnskeprasi
+1	dermatovenerologická klinika LF	dermatovenerologická klinika ,F
+0	kontrolované klinické studii	kontrolované klinické studii
+1	českého lékařského stavu	českého lékařskéh stavu
+1	dolní bederní páteře	ddolní bederní páteře
+1	klinické studii fáze	klinické studii fáe
+0	malým počtem pacientů	malým počtem pacientů
+1	naprosté většiny pacientů	naprosté většny pacientů
+2	Národní centrum ošetřovatelství	Národní centrumošstřovatelství
+1	uplynutím doby platnosti	uplynutím dkby platnosti
+0	Světový den ledvin	Světový den ledvin
+1	registrovaných centralizovanou procedurou	regitrovaných centralizovanou procedurou
+2	Základní principy rozlišování	Zakoadni principy rozlisovani
+3	randomizovaných klinických studiích	randomizovanych klinickyhc sstudiich
+2	zdravotní ústav Praha	zdravoatní ústav Praaha
+1	závažné ohrožení zdraví	závažné ohrožení zdraív
+1	těžkou systolickou dysfunkcí	tezkou systolickou dysfunkci
+2	náhradní terapie nikotinem	náhradní teraepienikotinem
+3	prodloužení intervalu QT	prodloužní interalu T
+1	akutní fáze zánětu	akutní fázd zánětu
+1	vybraných léčivých přípravků	vybranýhc léčivých přípravků
+1	Radiologická klinika LF	Radiologická klinika FL
+2	zvýšeného nitrolebního tlaku	zvýšeného nitrolebínho talku
+1	nejčastější příčinu úmrtí	nejcastejsi pricinu umrti
+2	Národního monitorovacího střediska	Narodnioh monitorovaciho strediska
+2	parciálního tlaku kyslíku	parcialniho tlaku kysilku
+2	inovativního farmaceutického průmyslu	inovativniho farmaceutickeho prumysu
+3	Česká nefrologická společnost	Cseka nefrologicka spolecnsot
+3	Věstníku MZ ČR	Vestni,u MZ RR
+0	sekundární prevenci CMP	sekundární prevenci CMP
+1	časném stadiu onemocnění	čačsném stadiu onemocnění
+2	antagonisty vitaminu K	antagsonisty itaminu K
+2	Onkologická klinika VFN	Onkologická klinka VF
+1	deprese úseku ST	deprsee úseku ST
+0	cévních mozkových příhodách	cévních mozkových příhodách
+1	vyžadující soustavnou léčbu	vyžadující soustabnou léčbu
+1	významné lékové interakce	významné lkéové interakce
+2	časných ranních hodinách	casnycyh rannich hodinach
+2	přímý inhibitor trombinu	příjý inhibitor trobminu
+3	hlubokého žilního systému	hlubookého žilnhío ssytému
+2	veřejné zdravotní pojištění	veřejnézdravotní pojiíštění
+2	Oddělení kontroly distribuce	Odděleí kontrooly distribuce
+4	cenu firmy Merck	cnu fimyMerMck
+2	maximální denní dávka	maximání denhí dávka
+1	rizikové faktory ICHS	rizikové fakotry ICHS
+1	náhlého úmrtí kojenců	náhlého úmrtí kojeců
+2	porušená glukózová tolerance	poršušená glukózpvá tolerance
+1	Kombinace inhibitoru ACE	Kombinace inhibitoru AXE
+2	doby platnosti rozhodnutí	dboy platnosti roozhodnutí
+1	všeobecného praktického lékaře	v4eobecného praktického lékaře
+1	léčby inhibitory ACE	léčby inhibitory ACEA
+1	Dalšími rizikovými faktory	Dalšími rizikovýi faktory
+1	zadního zkříženého vazu	zadního zkřížneého vazu
+3	centrální žilní katétr	centrálín žilín kattr
+2	dostatečný příjem tekutin	dostatecby prijem tekutin
+0	kardiovaskulárními rizikovými faktory	kardiovaskulárními rizikovými faktory
+1	Interní oddělení Nemocnice	Interní oddělení Nemconice
+3	Evropská kardiologická společnost	Evropsak kardiologicka spolecnosst
+0	dětskou mozkovou obrnou	dětskou mozkovou obrnou
+2	dobrém celkovém stavu	obrém celkovém satvu
+3	vysokým rizikem progrese	vysokkým rizikme progrees
+1	PRIMÁRNÍ PLICNÍ SARKOMY	PRIMÁRNÍ PLICNÍ SARKONY
+1	Vyhlášené ČSN Oznámení	Vyhlášené ČSN Oznámen9
+1	pozitivní prediktivní hodnotu	pozitivní predkitivní hodnotu
+1	Státním zdravotním ústavem	Statnim zdravotnim ustavem
+0	systémového krevního tlaku	systémového krevního tlaku
+0	Krajské nemocnice Pardubice	Krajské nemocnice Pardubice
+2	zevního ústí uretry	zevního ústíúuretry
+0	volné stěny LK	volné stěny LK
+1	genetiky AV ČR	genetiky AV ČD
+1	hluboké žilní trombóze	hluboké žilní trombeóze
+1	klinických studií fáze	klinických stuídií fáze
+2	zvýšeného krevního tlaku	zvýšneého krrevního tlaku
+3	randomizované studii fáze	randomiovane studii faye
+3	Vrozené srdeční vady	Vrozenné srdečnní vadyy
+3	klinika FNsP Ostrava	kliniika FNsP Ostrav
+3	nemalobuněčným karcinomem plic	nmalobuněčným kaorcinomem poic
+2	možnosti léčby závislosti	mžnosti léčby záivslosti
+1	infekčního postižení páteře	infekčního postžení páteře
+2	Chronická pánevní bolest	ChroniCcká pánvní bolest
+1	vyráběné léčivé přípravky	vyáběné léčivé přípravky
+3	revize textu SPC	revizer tetxtu XPC
+2	zdravotnická záchranná služba	zdravotnickázáchranná slubžba
+1	Institut ochrany obyvatelstva	Insittut ochrany obyvatelstva
+2	dlouhodobou hospitalizací dítěte	dlouhodobou hospitalizaíc dtěte
+2	změnu povolení výroby	zmenu povoleni vyrovy
+1	jiného státu EU	jiného státu EÝ
+1	blokátory receptorů AT	blokatory receptoru AT
+0	geriatrické společnosti ČLS	geriatrické společnosti ČLS
+2	cílená biologická léčba	cílsná biologgická léčba
+1	ZÁVADÁCH JAKOSTI LÉČIV	ZÁVADÁCN JAKOSTI LÉČIV
+1	kombinované hormonální antikoncepce	kombinované hoemonální antikoncepce
+2	výtokového traktu LK	výtokového traktuLKK
+1	vyžadující neodkladný zásah	vyžadující nsodkladný zásah
+1	kritickou končetinovou ischémií	kritickoukončetinovou ischémií
+3	vyšších věkových kategoriích	vyšyšíchvěkovýhc kategoriích
+2	rizikových faktorů ICHS	rizikových fakttorůICHS
+0	elevací úseku ST	elevací úseku ST
+2	Chronický únavový syndrom	Chronicýk únavofý syndrom
+0	Interní kardiologické kliniky	Interní kardiologické kliniky
+2	všeobecný praktický lékař	vššobecný praktický élkař
+1	neurologické společnosti ČLS	neurologické společnosit ČLS
+0	hrazené léčivé přípravky	hrazené léčivé přípravky
+0	tromboembolická plicní hypertenze	tromboembolická plicní hypertenze
+1	funkční magnetická rezonance	funkčnímagnetická rezonance
+2	hodnocených léčivých přípravků	hodnocneých léčivýc přípravků
+2	rizikové faktory zlomenin	rizikové faktoryzlomenn
+3	zvláštního právního předpisu	zvlastninho ravniho predpisu
+1	plicní vaskulární rezistence	plicní vaaskulární rezistence
+3	srdeční resynchronizační léčby	srdečnínresynchronizační léčbz
+1	spontánní bakteriální peritonitidy	spontánní bakteriální peritohitidy
+1	nežádoucích účinků léků	nežádoucích čúinků léků
+1	vizuální analogová škála	vizáulní analogová škála
+2	rychlé lékařské pomoci	rychl= lékkařské pomoci
+3	izolovanou systolickou hypertenzí	izolovanouu systolickou hyperenzi
+2	chráněných únikových cest	chráněných únikovýhccest
+1	poskytované zdravotnické péče	poskytované zdravotnické pčée
+1	molekulární genetiky AV	molekulární genetikye AV
+3	zpětného vychytávání noradrenalinu	zěptného vychytavání noradrenalinou
+3	systolickým krevním tlakem	sysotlickým krevmním tlakeml
+1	Prodloužení doby použitelnosti	Prodloužení doyb použitelnosti
+1	prediktivního genetického testování	prediktivního genetického testoávní
+3	kalkulovanou glomerulární filtrací	kalkullovanou gloemerulární filyrací
+0	ostatních rizikových faktorů	ostatních rizikových faktorů
+1	kardiologická klinika LF	kardiologciká klinika LF
+2	umělou plicní ventilací	uumělou plicní vntilací
+2	výkonu povolání lékaře	vukonupovolání lékaře
+1	fakulty UK Praha	fafkulty UK Praha
+1	Autonomní nervový systém	Autonomnínervový systém
+3	nežádoucích vedlejších účinků	nežádoucíxh vedlešjích činků
+1	chronickou žilní insuficiencí	chrlnickou žilní insuficiencí
+3	mozkových cévních příhod	momzkovýchcévních phříhod
+3	destičkový růstový faktor	desitčkový růtstový fwktor
+0	Zlatý záchranářský kříž	Zlatý záchranářský kříž
+1	Rizikové faktory vzniku	Rizikové fakory vzniku
+0	léčbě inhibitory ACE	léčbě inhibitory ACE
+1	cílového krevního tlaku	cílového krevního tlakuu
+0	Dermatovenerologická klinika LF	Dermatovenerologická klinika LF
+3	Krajská nemocnice Pardubice	Krajska nemocnicePardugice
+0	naprosté většiny nemocných	naprosté většiny nemocných
+0	Pražský psychoterapeutický institut	Pražský psychoterapeutický institut
+2	závažných vedlejších účinků	záavžných vedlejších účiniků
+0	Českou lékařskou komorou	Českou lékařskou komorou
+2	Akutní koronární syndromy	Akutn9 koronární synndromy
+2	Obecné zásady léčby	Obecné zásaady léby
+2	Idiopatické střevní záněty	IdiopatickIé střevní záěty
+1	hyperaktivní močový měchýř	hykperaktivní močový měchýř
+3	pravostranného srdečního selhání	pravostranneuo srdecmiho selhani
+0	podání BCG vakcíny	podání BCG vakcíny
+2	závažný rizikový faktor	zváažný rizikový famtor
+1	správného klinického použití	správného klinickkého použití
+0	dolní plicní žíla	dolní plicní žíla
+1	intervenční radiologie IKEM	intervenční radilogie IKEM
+1	kardiologie IKEM Praha	kardiologie IEKM Praha
+0	vnímání změny hlasu	vnímání změny hlasu
+2	podávání vitaminu D	pondávání vitzminu D
+1	mikrobiologie LF UK	mikrobiologie LF U
+0	fakulty Univerzity Palackého	fakulty Univerzity Palackého
+2	závažných rizikových faktorů	závažncých rizikových faktorz
+1	případů stahování šarží	případů stahovíní šarží
+3	elektronické zdravotní karty	elektroincké zdravtoní kartty
+2	negativní prediktivní hodnotu	negativní prediktivníhodnou
+2	antibiotickou politiku ČLS	antibiotickoupolitik ČLS
+1	náhlá srdeční smrt	nahla srdecni smrt
+0	generalizované úzkostné poruchy	generalizované úzkostné poruchy
+1	vyspělých zemích světa	vyspělých zemích svtěta
+2	Národní monitorovací středisko	Národjí monitorovací střoedisko
+2	infekčních nemocí LF	infekcnich nemci LF
+1	mladších věkových skupin	mladších věkových skupn
+0	Systolický krevní tlak	Systolický krevní tlak
+2	soukromé lékařské praxe	sokuromé lékařské prwxe
+1	programu transplantace jater	programu transplantace jateř
+1	rutinní klinické praxi	rutinníklinické praxi
+2	týdenní pracovní doby	tydenni praocvni doby
+0	MASARYKŮV ONKOLOGICKÝ ÚSTAV	MASARYKŮV ONKOLOGICKÝ ÚSTAV
+1	základních rizikových faktorů	základnícíh rizikových faktorů
+2	informovaný souhlas pacienta	informovaný sohulas pacientca
+1	schválených MZ ČR	schválených MZ RČ
+0	přiměřená fyzická aktivita	přiměřená fyzická aktivita
+3	úrazovém pojištění zaměstnanců	úrarzovém pojkštění zaměstnanczů
+1	doplňující léčebná péče	doplňující léčebná pčée
+3	umělou plicní ventilaci	umelou picni ventilcai
+2	výsledného klinického stavu	vhýsledného klinického staavu
+1	chronickou infekcí HCV	chronickuo infekcí HCV
+1	diastolického srdečního selhání	diastolického sreečního selhání
+1	státní politiku zaměstnanosti	státnís politiku zaměstnanosti
+1	všeobecné praktické lékařství	všeobecné prkaktické lékařství
+0	humanizovaná monoklonální protilátka	humanizovaná monoklonální protilátka
+3	rizikových faktorů vzniku	rizikovýchv fatorů vznik
+1	šetřící radikální cystektomie	šetřící rydikální cystektomie
+2	reálné klinické praxe	reálné klinicépraxe
+1	Masarykově onkologickém ústavu	Masarykove onkologickem ustavu
+0	experimentální medicíny AV	experimentální medicíny AV
+1	dobou trvání diabetu	dobou trvání diqbetu
+0	Komplexní kardiovaskulární centrum	Komplexní kardiovaskulární centrum
+3	transkutánní tenze kyslíku	trnaskutánní tenzekyslíkz
+2	selháním funkce ledvin	selhanim funkce leidvin
+2	volné kyslíkové radikály	volné kyslyíkovéradikály
+2	Nenasycené mastné kyseliny	Nenascené mastnté kyseliny
+1	celkové denní dávky	celkové denn dávky
+2	Maximální doba použitelnosti	Maximalni doba pozitelnosti
+3	úroveň znalostí B	urovne znalosti H
+3	zdravý životní styl	zdrsvy zivotni stlyl
+3	sérová koncentrace kreatininu	sérovákotncentrace kreatinniu
+0	tenzní bolest hlavy	tenzní bolest hlavy
+3	Fyziologický ústav AV	Fyziologickyusav AV
+2	delší biologický poločas	ddlší biologickbý poločas
+1	denní terapeutická dávka	denní terapeutácká dávka
+2	Pozitronová emisní tomografie	Poztironová emisní tomogafie
+1	alergické kožní reakce	alergick kožní reakce
+3	srdeční resynchronizační léčbu	srdecndi resynchronizacni lebcu
+1	Oční klinika dětí	Ocni klinika deti
+2	systolickým srdečním selháním	systolikcým srdečním seláním
+1	Lékařská fakulta UK	Lékařská fakulat UK
+3	poruchami příjmu potravy	poruchsmi příjmj potrvy
+1	vydaného jiným státem	vydaného jiný státem
+0	Inspekční odbor SÚKL	Inspekční odbor SÚKL
+0	nedostatek vitaminu D	nedostatek vitaminu D
+0	členských zemí EU	členských zemí EU
+2	randomizované kontrolované studii	randoizovane kontrolovane studii
+1	probíhajících klinických studií	proíbhajících klinických studií
+0	společnosti Jana Evangelisty	společnosti Jana Evangelisty
+0	aktivovaný protein C	aktivovaný protein C
+0	přímý inhibitor reninu	přímý inhibitor reninu
+2	randomizovaná kontrolovaná studie	randomizoaná kontroolvaná studie
+1	zdravotnických záchranných služeb	zdravotnickych zachrannych sluzeb
+1	kontrolované klinické studie	kontrolované klinické studje
+1	Česká asociace sester	Česká asociace sšster
+1	běžných denních činností	běžných deních činností
+0	chirurgickou léčbu obezity	chirurgickou léčbu obezity
+1	Perkutánní koronární intervence	Perkutánní koronární intervenec
+2	chronických bronchopulmonálních onemocnění	chronickkých bronchopumonálních onemocnění
+2	záchyt karcinomu prostaty	záchytkarcinomu rpostaty
+4	Primárním sledovaným parametrem	Pirmarnim sledovanm parametremm
+0	prospektivní randomizovaná studie	prospektivní randomizovaná studie
+2	dlouhého intervalu QT	doluhéhointervalu QT
+1	benigní hyperplazií prostaty	benigní hyperlazií prostaty
+1	chronická obstrukční choroba	chonická obstrukční choroba
+0	ČESKÉ LÉKAŘSKÉ KOMORY	ČESKÉ LÉKAŘSKÉ KOMORY
+1	průměrné době sledování	průměrné doběb sledování
+1	jednotlivé rizikové faktory	jednotlivérizikové faktory
+0	zrušení povolení distribuce	zrušení povolení distribuce
+2	pánevních lymfatických uzlin	pánevníchlymfatickýchuzlin
+2	Státním zdravotním ústavu	Sntátním zdravotním ústavua
+4	Maximální denní dávka	Maximlni deenni davdka
+0	žádost držitele registrace	žádost držitele registrace
+1	nových léčebných postupů	nových léčeebných postupů
+1	náhlou srdeční smrtí	nhálou srdeční smrtí
+1	výhodné platové podmínky	vhodné platové podmínky
+3	chronickou myeloidní leukémií	chronickou myeloiydni luekemii
+0	Srdeční resynchronizační léčba	Srdeční resynchronizační léčba
+1	čtrnáctiletého průběhu nemoci	čtrn9ctiletého průběhu nemoci
+0	letecké záchranné služby	letecké záchranné služby
+1	Procesy sterilizace teplem	Procesy sterilizace teplme
+1	centrálního žilního tlaku	centrálního žilníhé tlaku
+1	rizikem přenosu původců	rizikem přuenosu původců
+2	zvýšeným rizikem úmrtí	zvýšeým rizikem únrtí
+2	převážné většině případů	přvážné většině příípadů
+0	hormonální substituční léčba	hormonální substituční léčba
+1	Centrum diabetologie IKEM	Cetnrum diabetologie IKEM
+1	přednemocniční neodkladné péči	přednemocničn9 neodkladné péči
+2	CT vyšetření srdce	TC vyšetření srdec
+0	zvýšený krevní tlak	zvýšený krevní tlak
+0	C T obraz	C T obraz
+4	funkce pohledem urologa	fukce pohledmeurologw
+3	chronických bolestí zad	chronickýchh olestí zada
+3	nutný individuální přístup	ntný individuání přítup
+1	omezení rozsahu pohybu	omezení rozsahu poyhbu
+2	pozitivní prediktivní hodnota	pozitivní prediktiní hodota
+2	Centrální úložiště dat	Centrátlní úložišžě dat
+0	Brněnské onkologické dny	Brněnské onkologické dny
+2	normálním krevním tlakem	normmálním krevním ltakem
+1	celé sledované období	celé sledované obrobí
+2	hlavním rizikovým faktorem	havním riikovým faktorem
+2	rizika přenosu původců	rizik přenosu půvocdů
+2	esenciální mastné kyseliny	esenciáln maztné kyseliny
+2	Česká diabetologická společnost	Ččská diabtologická společnost
+1	metastazujícím kolorektálním karcinomem	mtastazujícím kolorektálním karcinomem
+0	terapie diabetes mellitus	terapie diabetes mellitus
+2	celou dobu sledování	elou dobu sledovani
+0	Správnou distribuční praxi	Správnou distribuční praxi
+1	AMP kód SÚKL	AAMP kód SÚKL
+2	komplexních forem KES	komplexníhc froem KES
+1	akutní plicní embolii	akutní plicní čmbolii
+1	podávání inhibitorů ACE	podávání inhibitorů ADE
+2	protein kinase B	protei kinase 
+2	ukončení platnosti rozhodnutí	ukončení plaitnosti rozhodnuít
+1	České obezitologické společnosti	Ceske obezitologicke spolecnosti
+0	izolovaná systolická hypertenze	izolovaná systolická hypertenze
+2	KLINICKÉ HODNOCENÍ LÉČIV	KLINICKÉ HODNOCHENÍ ÉČIV
+3	nízkým obsahem sacharidů	nizky, obsahem sachariduc
+1	masivní plicní embolie	masivní plicní emolie
+1	dětská klinika LF	dětdská klinika LF
+1	snížení počtu hospitalizací	snížení poču hospitalizací
+1	diagnostiky LF UK	diagnotiky LF UK
+3	Průměrná doba hospitalizace	Párůměrná dona hospitalizatce
+0	celkové době přežití	celkové době přežití
+2	dočasná pracovní neschopnost	odčasná pracovní neschpnost
+2	těžké akutní pankreatitidy	tětké aktuní pankreatitidy
+0	delším časovém horizontu	delším časovém horizontu
+3	reziduálního vaskulárního rizika	rzeiduálního vaskulárnhío riziak
+2	Pardubické krajské nemocnici	Parubicke krajske nemocnici
+2	Odhad počtu pacientů	Odhad poctu pacient
+1	Chronická žilní insuficience	hronická žilní insuficience
+0	klinický stav pacienta	klinický stav pacienta
+3	Stupeň doporučení E	Stupeh doporucdni E
+1	chronickou nenádorovou bolestí	chronickou nenádorovou bolsetí
+1	Královské Vinohrady Praha	Kárlovské Vinohrady Praha
+1	Správnou výrobní praxi	Správnou výrobní parxi
+3	obstrukční plicní nemocí	obsstrukční plicni neomcí
+0	přednemocniční neodkladné péče	přednemocniční neodkladné péče
+2	snížení bezpečnosti léčiv	sníženín bezpečosti léčiv
+1	pravého Tawarova raménka	pravého Tawarova raménma
+2	střední době sledování	střední doběs,edování
+0	reaktivní formy kyslíku	reaktivní formy kyslíku
+4	LF UK Plzeň	LFZK Plzdn
+1	negativní prognostický faktor	negativní prognostický faktro
+2	laboratorní praxe OECD	laboratorntí raxe OECD
+0	stupeň doporučení A	stupeň doporučení A
+0	hrudní dutinu interferonem	hrudní dutinu interferonem
+4	Protein kinase C	Protinkianse 
+3	drtivé většině případů	drtiv= většiěn přpíadů
+2	odhad populace mikroorganismů	odhad populaace mikroorganksmů
+1	zlomenin krčku femuru	zlomenin krčku fuemuru
+2	benigní hyperplazii prostaty	benigní hyperplazi prostařy
+0	kombinací inhibitoru ACE	kombinací inhibitoru ACE
+0	funkční magnetické rezonance	funkční magnetické rezonance
+2	duplexní ultrazvukové vyšetření	duplexni ultrazvukovet vysetreni
+1	nového zákoníku práce	nového zákoníuk práce
+2	hlavní příčinou úmrtí	hlavní příčinouúrtí
+1	nízkou ejekční frakcí	nízkou ejekční frakc
+2	virus hepatitidy B	virushepatiitidy B
+1	chlopenních srdečních vad	chlopennních srdečních vad
+1	pozdních komplikací diabetu	pozdnich komplikaci diabetu
+1	krátký biologický poločas	krátký biologický poloočas
+1	specializačního vzdělávání lékařů	specializačního vzdělágání lékařů
+3	horní hranici normy	ohrní harnici nomry
+2	svobodnou volbu lékaře	svobodnuo volblu lékaře
+3	Vysoký krevní tlak	VysVoký krvení t,ak
+2	optické koherentní tomografie	optikcé koheretnní tomografie
+0	zelený fluorescenční protein	zelený fluorescenční protein
+2	Střední doba přežití	Středí doba přežřití
+2	vyšších věkových kategorií	všších věkových kategorio
+2	tromboembolické plicní hypertenze	tromboembo;ické plicíní hypertenze
+0	Hluboká mozková stimulace	Hluboká mozková stimulace
+2	časných stadií karcinomu	časnýčch stadií karinomu
+1	doby použitelnosti šarže	dob použitelnosti šarže
+1	náhradou funkce ledvin	náhradou funce ledvin
+1	levé koronární arterie	levé koronární arteriei
+2	akutním koronárním syndromu	autním koronárním syndroymu
+2	prostatického specifického antigenu	prosattického specifického antignenu
+3	léčbě poruch spánku	léčbéěpourch spánku
+2	systolické funkce LK	systolcké funkce PK
+0	zkrácení doby hospitalizace	zkrácení doby hospitalizace
+1	očekávaná délka života	očekávan délka života
+0	klinické mikrobiologie LF	klinické mikrobiologie LF
+2	psychický stav pacienta	psychický sav pacineta
+1	prodloužení doby přežití	prodloužení dobyo přežití
+0	virem hepatitidy B	virem hepatitidy B
+2	Česká lékárnická komora	Čeksálékárnická komora
+0	lékařské společnosti Jana	lékařské společnosti Jana
+1	elevace úseku ST	eleavce úseku ST
+3	závodní preventivní péči	zaodni preventivni ppci
+2	běžných denních aktivit	běžnýcg dnních aktivit
+2	rizikovým faktorem vzniku	rizikovym faktorek vzniku
+2	anatomický ústav LF	ajatomický ústav F
+1	pozitivním karcinomem prsu	pozitivním karcinomemn prsu
+0	klinice LF UK	klinice LF UK
+1	sdruženého výsledného ukazatele	sdruženého výslednného ukazatele
+3	vrozené vývojové vady	vroezné výojové ady
+2	spontánní komorové extrasystoly	spontánníá koomrové extrasystoly
+1	Zrušení povolení distribuce	Zruseni povoleni distribuce
+0	Dalším důležitým faktorem	Dalším důležitým faktorem
+3	dětských lékařů ČLS	děstkých lékařz ČSL
+2	nestátní zdravotnické zařízení	nstátní dravotnické zařízení
+1	preventivního lékařství LF	preventivnrího lékařství LF
+0	nemocných vyššího věku	nemocných vyššího věku
+1	Střední doba sledování	Střední dba sledování
+4	Doporučený postup přípravy	Doopruceny posptup priprav
+1	platných právních předpisů	platných právních předppisů
+1	levé koronární tepny	levé koronární tepnyp
+0	Výhodné platové podmínky	Výhodné platové podmínky
+1	konjugovanou pneumokokovou vakcínou	konjugovanou pneumkookovou vakcínou
+1	nekrotizující faktor alfa	nekrotizující fsktor alfa
+1	chronické virové hepatitidy	chroincké virové hepatitidy
+1	invazivních pneumokokových onemocnění	invazivnch pneumokokových onemocnění
+1	Dům léčby bolesti	Dům léčby bolseti
+2	regionální bolestivý syndrom	regionáln9 bolestivý ssyndrom
+3	kritické končetinové ischémie	kriticé kénčetinové ischémáe
+2	Cílená biologická léčba	Cíelená bilogická léčba
+4	zhoubných nádorů prsu	zhoubnybch nadoaru pfsu
+1	pozitivní rodinnou anamnézu	pozitiní rodinnou anamnézu
+3	koncentrací vitaminu D	koncentraci vitamniuD
+1	každodenní klinické praxi	kažeodenní klinické praxi
+1	klasifikace bolestí hlavy	klasifikce bolestí hlavy
+2	Doporučené denní dávky	Dopručené denní dváky
+3	ochranného HDL cholesterolu	ochčanného HDDL cholesteropu
+2	osobnosti typu C	osobnostitypu X
+1	celostátní antropologický výzkum	celostátní antropologický výkzum
+1	pražské lékařské fakulty	pražské lékařské faku,ty
+1	České hematologické společnosti	České hematologické společnotsi
+2	pozdní hematogenní infekce	pozdn9 hematogenní infekfce
+2	akutní koronární syndromy	akuntí koronární syyndromy
+2	horní hrudní páteře	hořní hrudni páteře
+1	reálné klinické praxi	reálné klinické paxi
+1	riziko zlomenin obratlů	riziko glomenin obratlů
+2	předního sloupce páteře	předníhp sloupce páyeře
+2	nízkého srdečního výdeje	nízkho srdíečního výdeje
+2	nové lékové formy	novéé lékkové formy
+0	chronické myeloidní leukemie	chronické myeloidní leukemie
+4	střední mozkové tepny	strdeni mvozkove tpeny
+1	výsledný klinický stav	výesledný klinický stav
+1	klinickém stavu pacienta	klinickém stwvu pacienta
+2	vzniku diabetes mellitus	vzniku diaetes meliltus
+1	lokalizovaného karcinomu prostaty	lokalizovaného karcinoamu prostaty
+1	nesteroidní protizánětlivé látky	nesteroidní protizánětlivé látk
+3	velkých klinických studiích	velkýcu klonickýchstudiích
+3	každý praktický lékař	každy prakctický lékřa
+3	plastické operace víček	plasitcké operce víčvek
+2	streptokoky skupiny A	streptokokys skhpiny A
+2	sníženou renální funkcí	sníženoz renlání funkcí
+3	CT vyšetření břicha	C vyšet5ení biřcha
+3	roku věku dítěte	ro,u věkj díetěte
+0	Interní hematoonkologické kliniky	Interní hematoonkologické kliniky
+3	makromolekulární chemie AV	jakromolekulární chemáe AG
+4	periferních kmenových buněk	perifernih kkenovych bnek
+2	Nestátní zdravotnické zařízení	Nestátní zdzravotnické zazřízení
+2	transitorní ischemická ataka	transitorni ischekicka ataka
