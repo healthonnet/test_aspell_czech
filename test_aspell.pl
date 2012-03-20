@@ -38,11 +38,11 @@ sub getAspellCorrection {
 
 sub getAspellCorrectionForWord {
 	my $mispelled = $_[0];
-	#print STDERR "about to echo $mispelled\n";
+
 	my $aspell_output = `echo "$mispelled" | aspell -a -d cs`;
-	#print "$aspell_output\n";
+
 	if ($aspell_output =~ "&") {
-		#print "$mispelled iS NOT OKAY\n";
+
 		if ($aspell_output =~ /: (.*?),/p) {
 			return lc($1);
 		}
@@ -53,13 +53,8 @@ sub getAspellCorrectionForWord {
 sub isCorrectSuggestion {
 	my $mispelled = $_[0];
 	my $true_correction = $_[1];
-	#print "true_correct is $true_correction\n";
 	
 	my $actual_correction = getAspellCorrection($mispelled);
-
-	
-	#print "actual correction is $actual_correction\n";
-	#print "true correction is $true_correction\n";
 	
 	my $result = ($actual_correction eq $true_correction);
 	
