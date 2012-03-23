@@ -1,54 +1,51 @@
-#!/usr/bin/perl
+﻿#!/usr/bin/env perl
 
 use strict;
 use warnings;
 
 sub main() {
 	my $filename = $ARGV[0];
-	open (DATA,"<$filename") or die;
-	my $num_correct = 0;
-	my $num_wrong = 0;
+    #if no filename is define, <DATA> will read the __DATA__ section at the end of the script
+	open (DATA,"<$filename") or die if $filename;
+    
+	my ($num_correct, $num_wrong) = (0, 0);
 	
 	while(<DATA>) {
 		chomp;
-		(my $changes, my $correct, my $mispelled) = split(/\t/,$_);
-		if (isCorrectSuggestion($mispelled, $correct)) {
-			$num_correct++;
-		} else {
-			$num_wrong++;
-		}
+        #$_ is the default second param for split
+        #put 'my' once before is enough
+		my ($changes, $correct, $mispelled) = split(/\t/);
+
+        #well, that's weird
+		(isCorrectSuggestion($mispelled, $correct))?$num_correct++:$num_wrong++;
 	}
-	print "data:           $filename\n";
-	print "number correct: $num_correct\n";
-	print "number wrong:   $num_wrong\n";
+    
 	my $accuracy = $num_correct / ($num_wrong + $num_correct);
-	print "accuracy:       $accuracy\n";
+    $filename ||= '__DATA__';
+    print <<WHATEVER;
+data:           $filename
+number correct: $num_correct
+number wrong:   $num_wrong
+accuracy:       $accuracy
+WHATEVER
 }
 
 sub getAspellCorrection {
 	my $mispelled = $_[0];
 	my @terms = split(/\s+/,$mispelled);
-	my @corrected_terms = ();
-	foreach(@terms) {
-		push (@corrected_terms, getAspellCorrectionForWord($_));
-	}
-	
-	return join(" ", @corrected_terms);
+    
+    #return is on last statements
+	join " ", (map {getAspellCorrectionForWord($_)} @terms);
 }
 
 sub getAspellCorrectionForWord {
 	my $mispelled = $_[0];
 
 	my $aspell_output = `echo "$mispelled" | aspell -a -d cs`;
+    return lc($1) if ($aspell_output =~ "&") && ($aspell_output =~ /: (.*?),/p);
 
-	if ($aspell_output =~ "&") {
-
-		if ($aspell_output =~ /: (.*?),/p) {
-			return lc($1);
-		}
-	}
 	return $mispelled;
-	}
+}
 
 sub isCorrectSuggestion {
 	my $mispelled = $_[0];
@@ -68,3 +65,16 @@ sub isCorrectSuggestion {
 }
 
 main();
+
+
+__DATA__
+1	sentinelovou uzlinu	sentinelovou uzliunu
+1	Raynaudova fenoménu	Raymaudova fenoménu
+1	Nobelovou cenou	Nobepovou cenou
+1	kalcium karbonátu	kalcium karbnoátu
+0	klíšťové encefalitidy	klíšťové encefalitidy
+0	brusinkové šťávy	brusinkové šťávy
+2	ušního boltce	ušníoh oltce
+1	zasílaným informacím	zasílaným niformacím
+1	končetinovou ischémií	končetinovou ischmémií
+1	příbalovém letáku	příbalovém leátáku
