@@ -17,6 +17,7 @@ To run all the tests, use `./run_tests.sh`.  This will create a `/tmp/results.tx
 
 Based on the included misspelled Czech term data, Aspell v0.60.6 generates the following results: 
 
+```
 Filename                            Correct  Incorrect  Accuracy
 data/spellchecking-data-1-10.txt	526	027	0.9511754069
 data/spellchecking-data-1-20.txt	496	057	0.896925859
@@ -33,3 +34,4 @@ data/spellchecking-data-3-20.txt	472	287	0.6218708827
 data/spellchecking-data-3-30.txt	436	323	0.5744400527
 data/spellchecking-data-3-40.txt	423	336	0.557312253
 data/spellchecking-data-3-50.txt	342	417	0.4505928854
+```
