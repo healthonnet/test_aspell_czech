@@ -13,6 +13,21 @@ This will run on any Unix-like system with Aspell and the Czech Aspell dictionar
 
 To run all the tests, use `./run_tests.sh`.  This will create a `/tmp/results.txt` file which contains verbose output.  To summarize the output, run `./summarize_results.pl`.
 
+# Test Set #
+
+From Pavel:
+```
+We POS-tagged our BMC collection of medical documents in Czech and
+extracted "interesting" expressions (noun phrases, consisting of 1-3
+words) based on their frequency and pointwise mutual information. So all
+the expressions are likely to be used as queries in Khresmoi.
+
+2) We have introduced three types of errors letter errors (insertion,
+deletion, swap, replacement, each appearing in 20% of erroneous words),
+diacritics strip (50% of erroneous words), concatenation of words (10%
+of erroneous words).
+```
+
 # Results #
 
 Based on the included misspelled Czech term data, Aspell v0.60.6 generates the following results: 
